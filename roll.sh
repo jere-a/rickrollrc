@@ -1,8 +1,9 @@
 #!/bin/bash
 # Rick Astley in your Terminal.
 # By Serene and Justine Tunney <3
-version='1.2'
-rick='https://keroserene.net/lol'
+# Edited by jere-a
+version='1.3'
+rick='https://raw.githubusercontent.com/jere-a/rickrollrc/master'
 video="$rick/astley80.full.bz2"
 # TODO: I'll let someone with mac or windows machine send a pull request
 # to get gsm going again :)
